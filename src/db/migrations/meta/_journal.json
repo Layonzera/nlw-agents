@@ -8,6 +8,13 @@
       "when": 1752080111686,
       "tag": "0000_outgoing_scarlet_spider",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752190479777,
+      "tag": "0001_elite_exodus",
+      "breakpoints": true
     }
   ]
 }
